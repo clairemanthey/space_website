@@ -33,7 +33,11 @@ Built with Semantic HTML, CSS custom properties, flexbox, grid, and js
 Started designing with a mobile first approach, beginning with screen sizes of 600 pixels and smaller. 
 
 ![My Image](space_tourism_mobile.png)
+
 Then using media queries to create the layout for larger screen sizes ensure they were aesthetically pleasing so the user can find the information they are looking for easily.
+
+![My Image](space_tourism_tablet.png)
+
 Used semantic HTML to optimize SEO and make the accessible for all users
 
 Used a combination of flexbox and grid for responsive design
