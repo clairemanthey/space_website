@@ -23,7 +23,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 To create a multipage website as close to the design files as possible. The finished website should be responsive enabling the user to view the optimal layout on their device’s screen size. All interactive elements will have hover states on each page and toggle between the tabs on each page to view new information. 
 
 ### Screenshot
-space_tourism_desktop.png
+![My Image](space_tourism_desktop.png)
 
 ### Links
 https://scrimba.com/scrim/co1134e79b2debb30318bfcda 
