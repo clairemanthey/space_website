@@ -38,8 +38,6 @@ Then using media queries to create the layout for larger screen sizes ensure the
 
 ![My Image](space_tourism_tablet.png)
 
-Used semantic HTML to optimize SEO and make the accessible for all users
-
 Used a combination of flexbox and grid for responsive design
 
 Used CSS custom properties to build the website and keep the CSS organized and less repetitive with easily remembered variable names, and build a cascade to make the code cleaner and less repetitive.
