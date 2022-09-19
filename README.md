@@ -51,7 +51,9 @@ I learned a new way to handle different information on a webpage without creatin
 JS- take all the markup used for the tabs in the HTML files and put it in JSON file and access the information from there instead of needing it in the markup.
 
 ## Author
-Me
+Claire
+
+See more of my work-
 https://clairemakeswebsites.github.io./
 
 https://scrimba.com/scrim/co1134e79b2debb30318bfcda
