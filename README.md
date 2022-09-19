@@ -59,4 +59,3 @@ https://clairemakeswebsites.github.io./
 https://scrimba.com/scrim/co1134e79b2debb30318bfcda
 
 https://twitter.com/claire_makes
-## Acknowledgments
