@@ -37,11 +37,9 @@ Then using media queries to create the layout for larger screen sizes ensure the
 
 ![My Image](space_tourism_tablet.png)
 
-Used a combination of flexbox and grid for responsive design
+Used a combination of flexbox and grid to achieve a responsive layout.
 
-Used CSS custom properties to build the website and keep the CSS organized and less repetitive with easily remembered variable names, and build a cascade to make the code cleaner and less repetitive.
-
-Built as much as I could then watched the videos to make tweeks to get the final design as close to the design files as possible
+Used CSS custom properties to build the website and keep the CSS organized and less repetitive with easily remembered variable names, and build a cascade to make the CSS cleaner and less repetitive.
 
 ### What I learned
 I learned a new way to handle different information on a webpage without creating individual HTML files. By using JS to create toggle between classes to show information or hide information based on user input.
