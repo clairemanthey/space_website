@@ -53,6 +53,8 @@ JS- take all the markup used for the tabs in the HTML files and put it in JSON f
 ## Author
 Me
 https://clairemakeswebsites.github.io./
+
 https://scrimba.com/scrim/co1134e79b2debb30318bfcda
+
 https://twitter.com/claire_makes
 ## Acknowledgments
