@@ -28,7 +28,7 @@ To create a multipage website as close to the design files as possible. The fini
 https://scrimba.com/scrim/co1134e79b2debb30318bfcda 
 ## My process
 
-Started building the site with Semantic HTML, adding CSS custom properties with flexbox and grid to ensure the site was responsive. Started designing for small, 600px, screens then altering the design for larger screen sizes.
+Started building the site with Semantic HTML, adding CSS custom properties with flexbox and grid to ensure the site was responsive. Began with designing for small, 600px, screens then altering the design for larger screen sizes.
 
 
 ![My Image](space_tourism_mobile.png)
