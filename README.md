@@ -33,7 +33,7 @@ Started building the site with Semantic HTML, adding CSS custom properties with 
 
 ![My Image](space_tourism_mobile.png)
 
-Then using media queries to create the layout for larger screen sizes ensure they were aesthetically pleasing so the user can find the information they are looking for easily.
+Then using media queries to create the layout for larger screen sizes ensure they were aesthetically pleasing so the user can easily navigate the website to find the information they are looking for.
 
 ![My Image](space_tourism_tablet.png)
 
