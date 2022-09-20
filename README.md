@@ -31,11 +31,13 @@ https://scrimba.com/scrim/co1134e79b2debb30318bfcda
 Started building the site with Semantic HTML, adding CSS custom properties with flexbox and grid to ensure the site was responsive. Began with designing for small, 600px, screens then altering the design for larger screen sizes.
 
 Mobile:
+
 ![My Image](space_tourism_mobile.png)
 
 Then using media queries to create the layout for larger screen sizes ensure they were aesthetically pleasing so the user can easily navigate the website to find the information they are looking for.
 
 Tablet:
+
 ![My Image](space_tourism_tablet.png)
 
 Used CSS custom properties to build the website and keep the CSS organized and less repetitive with easily remembered variable names, and build a cascade to make the CSS cleaner and less repetitive.
