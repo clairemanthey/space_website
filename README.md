@@ -37,8 +37,6 @@ Then using media queries to create the layout for larger screen sizes ensure the
 
 ![My Image](space_tourism_tablet.png)
 
-Used a combination of flexbox and grid to achieve a responsive layout.
-
 Used CSS custom properties to build the website and keep the CSS organized and less repetitive with easily remembered variable names, and build a cascade to make the CSS cleaner and less repetitive.
 
 ### What I learned
