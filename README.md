@@ -42,7 +42,7 @@ Tablet:
 
 ![My Image](space_tourism_tablet.png)
 
-Tablet:
+Desktop:
 
 ![My Image](space_tourism_desktop.png)
 
