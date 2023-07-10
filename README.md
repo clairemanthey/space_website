@@ -42,5 +42,9 @@ Tablet:
 
 ![My Image](space_tourism_tablet.png)
 
+Tablet:
+
+![My Image](space_tourism_desktop.png)
+
 ## Acknowledgements
 [Scrimba](https://scrimba.com/) and [FrontEnd Mentor](https://www.frontendmentor.io/) for putting together this challenge
