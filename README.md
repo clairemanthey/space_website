@@ -1,5 +1,5 @@
 # Space Website
-My solution to the JavaScript Exercises from The Odin Project
+Space tourism website 
 
 ## Table of Contents
 [Introduction](Introduction)
