@@ -24,9 +24,9 @@ The challenge began with blank files and included the following features- the th
 I began this course to review my HTML, CSS, and JavaScript skills. To see how far I could get before referring to the videos. I chose this course because it was a clearly defined project with designed files provided. It provided a challenge of creating and implementing a design system with videos available to check in with. 
 
 ## Built With
-JavaScript
-HTML
-CSS
+- JavaScript
+- HTML
+- CSS
 
 ## My Solution
 [Solution](https://scrimba.com/scrim/co1134e79b2debb30318bfcda)
